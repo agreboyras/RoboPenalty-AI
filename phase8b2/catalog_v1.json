@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "actions": {
+    "center": {
+      "bias": 0.0,
+      "probe": "results/selected_repeats/bias_p0_0000_01.json",
+      "sha256": "87d66c5a58ded36ad9d02d051b0f6ead7b2f59b3a5188b8ceed5bcdce024a1a6",
+      "validation": "two exact 14s probes, physical trace, 500Hz trajectory, contacts, final full state hash"
+    },
+    "intermediate_left_b110": {
+      "bias": 1.1,
+      "probe": "results/selected_repeats/bias_p1_1000_01.json",
+      "sha256": "e6e87c3f745051c8f6e0e2004a0e534f349c12c862d2620f1ad3bd44223f9df4",
+      "validation": "two exact 14s probes, physical trace, 500Hz trajectory, contacts, final full state hash"
+    },
+    "intermediate_right_m080": {
+      "bias": -0.8,
+      "probe": "results/selected_repeats/bias_m0_8000_01.json",
+      "sha256": "63510ab371366245cbcd4957536bdde89b480b45743e91e7dc029d2788f22c56",
+      "validation": "two exact 14s probes, physical trace, 500Hz trajectory, contacts, final full state hash"
+    },
+    "corner_left_b097": {
+      "bias": 0.97,
+      "probe": "results/selected_repeats/bias_p0_9700_01.json",
+      "sha256": "65bbdad76378fbc68113c955128c655bb343ec4075af11d350fc6062e035b70d",
+      "validation": "two exact 14s probes, physical trace, 500Hz trajectory, contacts, final full state hash"
+    },
+    "corner_right_m140": {
+      "bias": -1.4,
+      "probe": "results/selected_repeats/bias_m1_4000_01.json",
+      "sha256": "e710b2c63675078caa57933cbe6fe27d166461f04df50c1038e42b7def1ab790",
+      "validation": "two exact 14s probes, physical trace, 500Hz trajectory, contacts, final full state hash"
+    }
+  }
+}

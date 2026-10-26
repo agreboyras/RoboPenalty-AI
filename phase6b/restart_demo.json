@@ -1,0 +1,7 @@
+[
+  {"phase":"READY","penalty":0,"text":"Iniciar partido"},
+  {"phase":"FINISHED","text":"Mostrar marcador","after":[0]},
+  {"phase":"FINISHED","text":"Reiniciar partido","after":[1]},
+  {"phase":"READY","penalty":0,"text":"Iniciar partido","after":[2]},
+  {"phase":"FINISHED","text":"Detener partido","after":[3]}
+]

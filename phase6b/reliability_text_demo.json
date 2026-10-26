@@ -1,0 +1,15 @@
+[
+  {"phase":"READY","penalty":0,"text":"Iniciar partido"},
+  {"phase":"SHOOTING","penalty":1,"sim_s":0.6,"text":"Pausar partido"},
+  {"phase":"SHOOTING","penalty":1,"paused":true,"pause_wall_s":0.1,"text":"Mostrar marcador"},
+  {"phase":"SHOOTING","penalty":1,"paused":true,"pause_wall_s":0.3,"text":"Reanudar partido"},
+  {"phase":"SHOOTING","penalty":1,"sim_s":1.2,"text":"Reiniciar partido"},
+  {"phase":"SHOOTING","penalty":1,"sim_s":1.3,"text":"Iniciar partido"},
+  {"phase":"SHOOTING","penalty":1,"sim_s":1.4,"text":"No quiero detener partido"},
+  {"phase":"READY","penalty":2,"waiting_next":true,"text":"Siguiente penal"},
+  {"phase":"READY","penalty":3,"waiting_next":true,"text":"Siguiente penal"},
+  {"phase":"READY","penalty":4,"waiting_next":true,"text":"Siguiente penal"},
+  {"phase":"READY","penalty":5,"waiting_next":true,"text":"Siguiente penal"},
+  {"phase":"FINISHED","text":"Mostrar marcador"},
+  {"phase":"FINISHED","text":"Detener partido"}
+]

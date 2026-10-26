@@ -1,0 +1,1870 @@
+{
+  "joints": [
+    {
+      "name": "gk/left_hip_pitch_joint",
+      "index": 33,
+      "qpos": 51,
+      "dof": 48,
+      "actuator": 29,
+      "joint_range": [
+        -2.5307,
+        2.8798
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 88.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -88.0,
+        88.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -88.0,
+        88.0
+      ]
+    },
+    {
+      "name": "gk/left_hip_roll_joint",
+      "index": 34,
+      "qpos": 52,
+      "dof": 49,
+      "actuator": 30,
+      "joint_range": [
+        -0.5236,
+        2.9671
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 139.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -88.0,
+        88.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -88.0,
+        88.0
+      ]
+    },
+    {
+      "name": "gk/left_hip_yaw_joint",
+      "index": 35,
+      "qpos": 53,
+      "dof": 50,
+      "actuator": 31,
+      "joint_range": [
+        -2.7576,
+        2.7576
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 88.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -88.0,
+        88.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -88.0,
+        88.0
+      ]
+    },
+    {
+      "name": "gk/left_knee_joint",
+      "index": 36,
+      "qpos": 54,
+      "dof": 51,
+      "actuator": 32,
+      "joint_range": [
+        -0.087267,
+        2.8798
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 139.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -139.0,
+        139.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -139.0,
+        139.0
+      ]
+    },
+    {
+      "name": "gk/left_ankle_pitch_joint",
+      "index": 37,
+      "qpos": 55,
+      "dof": 52,
+      "actuator": 33,
+      "joint_range": [
+        -0.87267,
+        0.5236
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 50.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -50.0,
+        50.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -50.0,
+        50.0
+      ]
+    },
+    {
+      "name": "gk/left_ankle_roll_joint",
+      "index": 38,
+      "qpos": 56,
+      "dof": 53,
+      "actuator": 34,
+      "joint_range": [
+        -0.2618,
+        0.2618
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 50.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -50.0,
+        50.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -50.0,
+        50.0
+      ]
+    },
+    {
+      "name": "gk/right_hip_pitch_joint",
+      "index": 39,
+      "qpos": 57,
+      "dof": 54,
+      "actuator": 35,
+      "joint_range": [
+        -2.5307,
+        2.8798
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 88.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -88.0,
+        88.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -88.0,
+        88.0
+      ]
+    },
+    {
+      "name": "gk/right_hip_roll_joint",
+      "index": 40,
+      "qpos": 58,
+      "dof": 55,
+      "actuator": 36,
+      "joint_range": [
+        -2.9671,
+        0.5236
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 139.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -88.0,
+        88.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -88.0,
+        88.0
+      ]
+    },
+    {
+      "name": "gk/right_hip_yaw_joint",
+      "index": 41,
+      "qpos": 59,
+      "dof": 56,
+      "actuator": 37,
+      "joint_range": [
+        -2.7576,
+        2.7576
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 88.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -88.0,
+        88.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -88.0,
+        88.0
+      ]
+    },
+    {
+      "name": "gk/right_knee_joint",
+      "index": 42,
+      "qpos": 60,
+      "dof": 57,
+      "actuator": 38,
+      "joint_range": [
+        -0.087267,
+        2.8798
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 139.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -139.0,
+        139.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -139.0,
+        139.0
+      ]
+    },
+    {
+      "name": "gk/right_ankle_pitch_joint",
+      "index": 43,
+      "qpos": 61,
+      "dof": 58,
+      "actuator": 39,
+      "joint_range": [
+        -0.87267,
+        0.5236
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 50.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -50.0,
+        50.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -50.0,
+        50.0
+      ]
+    },
+    {
+      "name": "gk/right_ankle_roll_joint",
+      "index": 44,
+      "qpos": 62,
+      "dof": 59,
+      "actuator": 40,
+      "joint_range": [
+        -0.2618,
+        0.2618
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 50.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -50.0,
+        50.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -50.0,
+        50.0
+      ]
+    },
+    {
+      "name": "gk/waist_yaw_joint",
+      "index": 45,
+      "qpos": 63,
+      "dof": 60,
+      "actuator": 41,
+      "joint_range": [
+        -2.618,
+        2.618
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 88.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -88.0,
+        88.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -88.0,
+        88.0
+      ]
+    },
+    {
+      "name": "gk/waist_roll_joint",
+      "index": 46,
+      "qpos": 64,
+      "dof": 61,
+      "actuator": 42,
+      "joint_range": [
+        -0.52,
+        0.52
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 50.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -50.0,
+        50.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -50.0,
+        50.0
+      ]
+    },
+    {
+      "name": "gk/waist_pitch_joint",
+      "index": 47,
+      "qpos": 65,
+      "dof": 62,
+      "actuator": 43,
+      "joint_range": [
+        -0.52,
+        0.52
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 50.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -50.0,
+        50.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -50.0,
+        50.0
+      ]
+    },
+    {
+      "name": "gk/left_shoulder_pitch_joint",
+      "index": 48,
+      "qpos": 66,
+      "dof": 63,
+      "actuator": 44,
+      "joint_range": [
+        -3.0892,
+        2.6704
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 25.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -25.0,
+        25.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -25.0,
+        25.0
+      ]
+    },
+    {
+      "name": "gk/left_shoulder_roll_joint",
+      "index": 49,
+      "qpos": 67,
+      "dof": 64,
+      "actuator": 45,
+      "joint_range": [
+        -1.5882,
+        2.2515
+      ],
+      "initial_reference_rad": 0.25,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 25.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -25.0,
+        25.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -25.0,
+        25.0
+      ]
+    },
+    {
+      "name": "gk/left_shoulder_yaw_joint",
+      "index": 50,
+      "qpos": 68,
+      "dof": 65,
+      "actuator": 46,
+      "joint_range": [
+        -2.618,
+        2.618
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 25.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -25.0,
+        25.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -25.0,
+        25.0
+      ]
+    },
+    {
+      "name": "gk/left_elbow_joint",
+      "index": 51,
+      "qpos": 69,
+      "dof": 66,
+      "actuator": 47,
+      "joint_range": [
+        -1.0472,
+        2.0944
+      ],
+      "initial_reference_rad": 0.3,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 25.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -25.0,
+        25.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -25.0,
+        25.0
+      ]
+    },
+    {
+      "name": "gk/left_wrist_roll_joint",
+      "index": 52,
+      "qpos": 70,
+      "dof": 67,
+      "actuator": 48,
+      "joint_range": [
+        -1.97222,
+        1.97222
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 25.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -25.0,
+        25.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -25.0,
+        25.0
+      ]
+    },
+    {
+      "name": "gk/left_wrist_pitch_joint",
+      "index": 53,
+      "qpos": 71,
+      "dof": 68,
+      "actuator": 49,
+      "joint_range": [
+        -1.61443,
+        1.61443
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 5.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -5.0,
+        5.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -5.0,
+        5.0
+      ]
+    },
+    {
+      "name": "gk/left_wrist_yaw_joint",
+      "index": 54,
+      "qpos": 72,
+      "dof": 69,
+      "actuator": 50,
+      "joint_range": [
+        -1.61443,
+        1.61443
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 5.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -5.0,
+        5.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -5.0,
+        5.0
+      ]
+    },
+    {
+      "name": "gk/right_shoulder_pitch_joint",
+      "index": 55,
+      "qpos": 73,
+      "dof": 70,
+      "actuator": 51,
+      "joint_range": [
+        -3.0892,
+        2.6704
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 25.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -25.0,
+        25.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -25.0,
+        25.0
+      ]
+    },
+    {
+      "name": "gk/right_shoulder_roll_joint",
+      "index": 56,
+      "qpos": 74,
+      "dof": 71,
+      "actuator": 52,
+      "joint_range": [
+        -2.2515,
+        1.5882
+      ],
+      "initial_reference_rad": -0.25,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 25.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -25.0,
+        25.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -25.0,
+        25.0
+      ]
+    },
+    {
+      "name": "gk/right_shoulder_yaw_joint",
+      "index": 57,
+      "qpos": 75,
+      "dof": 72,
+      "actuator": 53,
+      "joint_range": [
+        -2.618,
+        2.618
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 25.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -25.0,
+        25.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -25.0,
+        25.0
+      ]
+    },
+    {
+      "name": "gk/right_elbow_joint",
+      "index": 58,
+      "qpos": 76,
+      "dof": 73,
+      "actuator": 54,
+      "joint_range": [
+        -1.0472,
+        2.0944
+      ],
+      "initial_reference_rad": 0.3,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 25.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -25.0,
+        25.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -25.0,
+        25.0
+      ]
+    },
+    {
+      "name": "gk/right_wrist_roll_joint",
+      "index": 59,
+      "qpos": 77,
+      "dof": 74,
+      "actuator": 55,
+      "joint_range": [
+        -1.97222,
+        1.97222
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 25.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -25.0,
+        25.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -25.0,
+        25.0
+      ]
+    },
+    {
+      "name": "gk/right_wrist_pitch_joint",
+      "index": 60,
+      "qpos": 78,
+      "dof": 75,
+      "actuator": 56,
+      "joint_range": [
+        -1.61443,
+        1.61443
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 5.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -5.0,
+        5.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -5.0,
+        5.0
+      ]
+    },
+    {
+      "name": "gk/right_wrist_yaw_joint",
+      "index": 61,
+      "qpos": 79,
+      "dof": 76,
+      "actuator": 57,
+      "joint_range": [
+        -1.61443,
+        1.61443
+      ],
+      "initial_reference_rad": 0.0,
+      "kp": 70.0,
+      "kd": 5.0,
+      "software_torque_clip_n_m": 5.0,
+      "gear": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "actuator_ctrl_limited": true,
+      "actuator_ctrlrange": [
+        -5.0,
+        5.0
+      ],
+      "joint_force_limited": true,
+      "joint_force_range": [
+        -5.0,
+        5.0
+      ]
+    }
+  ],
+  "geometry": [
+    {
+      "id": 128,
+      "name": "gk/geom_040",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/torso_link",
+      "position": [
+        4.196763133148201,
+        -9.466976661816276e-05,
+        1.2222415600756842
+      ]
+    },
+    {
+      "id": 129,
+      "name": "gk/geom_041",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/torso_link",
+      "position": [
+        4.200736929035537,
+        -8.064506001391946e-05,
+        0.8245756798596727
+      ]
+    },
+    {
+      "id": 130,
+      "name": "gk/geom_042",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/torso_link",
+      "position": [
+        4.200736929035537,
+        -8.064506001391946e-05,
+        0.8245756798596727
+      ]
+    },
+    {
+      "id": 131,
+      "name": "gk/geom_043",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_shoulder_pitch_link",
+      "position": [
+        4.200025556863121,
+        -0.13587973306605355,
+        1.0857390606797075
+      ]
+    },
+    {
+      "id": 132,
+      "name": "gk/geom_044",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_shoulder_pitch_link",
+      "position": [
+        4.1999992274337785,
+        -0.14142676089772546,
+        1.0861952006062296
+      ]
+    },
+    {
+      "id": 133,
+      "name": "gk/geom_045",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_shoulder_roll_link",
+      "position": [
+        4.199967512541686,
+        -0.1573480555455212,
+        1.0475387149451232
+      ]
+    },
+    {
+      "id": 134,
+      "name": "gk/geom_046",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_shoulder_roll_link",
+      "position": [
+        4.203998739539305,
+        -0.15949001332123752,
+        1.0320946768441732
+      ]
+    },
+    {
+      "id": 135,
+      "name": "gk/geom_047",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_shoulder_yaw_link",
+      "position": [
+        4.19195043711087,
+        -0.1800017078128238,
+        0.9357644483450508
+      ]
+    },
+    {
+      "id": 136,
+      "name": "gk/geom_048",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_shoulder_yaw_link",
+      "position": [
+        4.19195043711087,
+        -0.1800017078128238,
+        0.9357644483450508
+      ]
+    },
+    {
+      "id": 137,
+      "name": "gk/geom_049",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_elbow_link",
+      "position": [
+        4.135556534952077,
+        -0.20631009567116038,
+        0.8843794523426493
+      ]
+    },
+    {
+      "id": 138,
+      "name": "gk/geom_050",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_elbow_link",
+      "position": [
+        4.135556534952077,
+        -0.20631009567116038,
+        0.8843794523426493
+      ]
+    },
+    {
+      "id": 139,
+      "name": "gk/geom_051",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_wrist_roll_link",
+      "position": [
+        4.07381328602368,
+        -0.2049216930667988,
+        0.8627315812557728
+      ]
+    },
+    {
+      "id": 140,
+      "name": "gk/geom_052",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_wrist_roll_link",
+      "position": [
+        4.07381328602368,
+        -0.2049216930667988,
+        0.8627315812557728
+      ]
+    },
+    {
+      "id": 141,
+      "name": "gk/geom_053",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_wrist_pitch_link",
+      "position": [
+        4.033515551291019,
+        -0.20762589125540062,
+        0.8499963819371982
+      ]
+    },
+    {
+      "id": 142,
+      "name": "gk/geom_054",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_wrist_pitch_link",
+      "position": [
+        4.033515551291019,
+        -0.20762589125540062,
+        0.8499963819371982
+      ]
+    },
+    {
+      "id": 143,
+      "name": "gk/geom_055",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_wrist_yaw_link",
+      "position": [
+        3.9916673923700126,
+        -0.21206219720852879,
+        0.8383316797837508
+      ]
+    },
+    {
+      "id": 144,
+      "name": "gk/geom_056",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_wrist_yaw_link",
+      "position": [
+        3.9916673923700126,
+        -0.21206219720852879,
+        0.8383316797837508
+      ]
+    },
+    {
+      "id": 145,
+      "name": "gk/geom_057",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_wrist_yaw_link",
+      "position": [
+        3.909084590542283,
+        -0.21312098085247674,
+        0.8155813127070168
+      ]
+    },
+    {
+      "id": 146,
+      "name": "gk/geom_058",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_shoulder_pitch_link",
+      "position": [
+        4.200024452143094,
+        0.135870756110414,
+        1.0857394019896547
+      ]
+    },
+    {
+      "id": 147,
+      "name": "gk/geom_059",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_shoulder_pitch_link",
+      "position": [
+        4.1999992274337785,
+        0.14141676089772545,
+        1.0861952006062296
+      ]
+    },
+    {
+      "id": 148,
+      "name": "gk/geom_060",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_shoulder_roll_link",
+      "position": [
+        4.199967653551486,
+        0.1573376416089704,
+        1.047538871468214
+      ]
+    },
+    {
+      "id": 149,
+      "name": "gk/geom_061",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_shoulder_roll_link",
+      "position": [
+        4.203998739539305,
+        0.1594800133212375,
+        1.0320946768441732
+      ]
+    },
+    {
+      "id": 150,
+      "name": "gk/geom_062",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_shoulder_yaw_link",
+      "position": [
+        4.19195053405775,
+        0.17999075732335612,
+        0.935764051194254
+      ]
+    },
+    {
+      "id": 151,
+      "name": "gk/geom_063",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_shoulder_yaw_link",
+      "position": [
+        4.19195053405775,
+        0.17999075732335612,
+        0.935764051194254
+      ]
+    },
+    {
+      "id": 152,
+      "name": "gk/geom_064",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_elbow_link",
+      "position": [
+        4.135556022753131,
+        0.2062983515731846,
+        0.8843801326703058
+      ]
+    },
+    {
+      "id": 153,
+      "name": "gk/geom_065",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_elbow_link",
+      "position": [
+        4.135556022753131,
+        0.2062983515731846,
+        0.8843801326703058
+      ]
+    },
+    {
+      "id": 154,
+      "name": "gk/geom_066",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_wrist_roll_link",
+      "position": [
+        4.073813422840456,
+        0.20491174561329112,
+        0.8627312886901968
+      ]
+    },
+    {
+      "id": 155,
+      "name": "gk/geom_067",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_wrist_roll_link",
+      "position": [
+        4.073813422840456,
+        0.20491174561329112,
+        0.8627312886901968
+      ]
+    },
+    {
+      "id": 156,
+      "name": "gk/geom_068",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_wrist_pitch_link",
+      "position": [
+        4.033515802047153,
+        0.20761596283632933,
+        0.8499966695558439
+      ]
+    },
+    {
+      "id": 157,
+      "name": "gk/geom_069",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_wrist_pitch_link",
+      "position": [
+        4.033515802047153,
+        0.20761596283632933,
+        0.8499966695558439
+      ]
+    },
+    {
+      "id": 158,
+      "name": "gk/geom_070",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_wrist_yaw_link",
+      "position": [
+        3.991667933911945,
+        0.21205141314264886,
+        0.8383337314397402
+      ]
+    },
+    {
+      "id": 159,
+      "name": "gk/geom_071",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_wrist_yaw_link",
+      "position": [
+        3.991667933911945,
+        0.21205141314264886,
+        0.8383337314397402
+      ]
+    },
+    {
+      "id": 160,
+      "name": "gk/geom_072",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_wrist_yaw_link",
+      "position": [
+        3.909086811369618,
+        0.2131114280495786,
+        0.8155819770211526
+      ]
+    },
+    {
+      "id": 88,
+      "name": "gk/geom_000",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/pelvis",
+      "position": [
+        4.200000195298095,
+        9.171826830955297e-07,
+        0.7166234381743384
+      ]
+    },
+    {
+      "id": 89,
+      "name": "gk/geom_001",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/pelvis",
+      "position": [
+        4.199312960437253,
+        -2.401819341082137e-05,
+        0.7144063842928308
+      ]
+    },
+    {
+      "id": 90,
+      "name": "gk/geom_002",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/pelvis",
+      "position": [
+        4.199312960437253,
+        -2.401819341082137e-05,
+        0.7144063842928308
+      ]
+    },
+    {
+      "id": 91,
+      "name": "gk/geom_003",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_hip_pitch_link",
+      "position": [
+        4.200866558537879,
+        -0.11156295469219488,
+        0.6640038647870096
+      ]
+    },
+    {
+      "id": 92,
+      "name": "gk/geom_004",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_hip_pitch_link",
+      "position": [
+        4.200866558537879,
+        -0.11156295469219488,
+        0.6640038647870096
+      ]
+    },
+    {
+      "id": 93,
+      "name": "gk/geom_005",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_hip_roll_link",
+      "position": [
+        4.153087440608068,
+        -0.11608838049323612,
+        0.599361930380237
+      ]
+    },
+    {
+      "id": 94,
+      "name": "gk/geom_006",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_hip_roll_link",
+      "position": [
+        4.153087440608068,
+        -0.11608838049323612,
+        0.599361930380237
+      ]
+    },
+    {
+      "id": 95,
+      "name": "gk/geom_007",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_hip_yaw_link",
+      "position": [
+        4.1678921337493735,
+        -0.11329448762850797,
+        0.44539135645936984
+      ]
+    },
+    {
+      "id": 96,
+      "name": "gk/geom_008",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_hip_yaw_link",
+      "position": [
+        4.1678921337493735,
+        -0.11329448762850797,
+        0.44539135645936984
+      ]
+    },
+    {
+      "id": 97,
+      "name": "gk/geom_009",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_knee_link",
+      "position": [
+        4.187711919141213,
+        -0.12133034078452902,
+        0.2309521474376649
+      ]
+    },
+    {
+      "id": 98,
+      "name": "gk/geom_010",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_knee_link",
+      "position": [
+        4.187711919141213,
+        -0.12133034078452902,
+        0.2309521474376649
+      ]
+    },
+    {
+      "id": 99,
+      "name": "gk/geom_011",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_ankle_pitch_link",
+      "position": [
+        4.204108529300263,
+        -0.11856533230678462,
+        0.04512073387935692
+      ]
+    },
+    {
+      "id": 100,
+      "name": "gk/geom_012",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_ankle_pitch_link",
+      "position": [
+        4.204108529300263,
+        -0.11856533230678462,
+        0.04512073387935692
+      ]
+    },
+    {
+      "id": 101,
+      "name": "gk/geom_013",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/left_ankle_roll_link",
+      "position": [
+        4.173537972862345,
+        -0.11857996826310042,
+        0.022030037529469672
+      ]
+    },
+    {
+      "id": 102,
+      "name": "gk/geom_014",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_ankle_roll_link",
+      "position": [
+        4.250002330904888,
+        -0.143506455,
+        0.006136247577825257
+      ]
+    },
+    {
+      "id": 103,
+      "name": "gk/geom_015",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_ankle_roll_link",
+      "position": [
+        4.250002330904888,
+        -0.09350645499999999,
+        0.006136247577825257
+      ]
+    },
+    {
+      "id": 104,
+      "name": "gk/geom_016",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_ankle_roll_link",
+      "position": [
+        4.080002330904888,
+        -0.14850645499999998,
+        0.006136247577825257
+      ]
+    },
+    {
+      "id": 105,
+      "name": "gk/geom_017",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/left_ankle_roll_link",
+      "position": [
+        4.080002330904888,
+        -0.088506455,
+        0.006136247577825257
+      ]
+    },
+    {
+      "id": 106,
+      "name": "gk/geom_018",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_hip_pitch_link",
+      "position": [
+        4.200866470348951,
+        0.11156205033357466,
+        0.6640033768369001
+      ]
+    },
+    {
+      "id": 107,
+      "name": "gk/geom_019",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_hip_pitch_link",
+      "position": [
+        4.200866470348951,
+        0.11156205033357466,
+        0.6640033768369001
+      ]
+    },
+    {
+      "id": 108,
+      "name": "gk/geom_020",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_hip_roll_link",
+      "position": [
+        4.153087744927784,
+        0.116090302815209,
+        0.5993626612580184
+      ]
+    },
+    {
+      "id": 109,
+      "name": "gk/geom_021",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_hip_roll_link",
+      "position": [
+        4.153087744927784,
+        0.116090302815209,
+        0.5993626612580184
+      ]
+    },
+    {
+      "id": 110,
+      "name": "gk/geom_022",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_hip_yaw_link",
+      "position": [
+        4.167893464993482,
+        0.11329327745867503,
+        0.44539072813118374
+      ]
+    },
+    {
+      "id": 111,
+      "name": "gk/geom_023",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_hip_yaw_link",
+      "position": [
+        4.167893464993482,
+        0.11329327745867503,
+        0.44539072813118374
+      ]
+    },
+    {
+      "id": 112,
+      "name": "gk/geom_024",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_knee_link",
+      "position": [
+        4.187711490065576,
+        0.12132931855718722,
+        0.23094961927543903
+      ]
+    },
+    {
+      "id": 113,
+      "name": "gk/geom_025",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_knee_link",
+      "position": [
+        4.187711490065576,
+        0.12132931855718722,
+        0.23094961927543903
+      ]
+    },
+    {
+      "id": 114,
+      "name": "gk/geom_026",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_ankle_pitch_link",
+      "position": [
+        4.204108925900417,
+        0.11856553273354097,
+        0.045121216548774934
+      ]
+    },
+    {
+      "id": 115,
+      "name": "gk/geom_027",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_ankle_pitch_link",
+      "position": [
+        4.204108925900417,
+        0.11856553273354097,
+        0.045121216548774934
+      ]
+    },
+    {
+      "id": 116,
+      "name": "gk/geom_028",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/right_ankle_roll_link",
+      "position": [
+        4.1735328492077155,
+        0.118579119443176,
+        0.022029811833220368
+      ]
+    },
+    {
+      "id": 117,
+      "name": "gk/geom_029",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_ankle_roll_link",
+      "position": [
+        4.250002330904888,
+        0.09350645499999999,
+        0.006136247577825257
+      ]
+    },
+    {
+      "id": 118,
+      "name": "gk/geom_030",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_ankle_roll_link",
+      "position": [
+        4.250002330904888,
+        0.143506455,
+        0.006136247577825257
+      ]
+    },
+    {
+      "id": 119,
+      "name": "gk/geom_031",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_ankle_roll_link",
+      "position": [
+        4.080002330904888,
+        0.088506455,
+        0.006136247577825257
+      ]
+    },
+    {
+      "id": 120,
+      "name": "gk/geom_032",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/right_ankle_roll_link",
+      "position": [
+        4.080002330904888,
+        0.14850645499999998,
+        0.006136247577825257
+      ]
+    },
+    {
+      "id": 121,
+      "name": "gk/geom_033",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/waist_yaw_link",
+      "position": [
+        4.195356913340427,
+        -3.9417883471413433e-07,
+        0.8109213696909121
+      ]
+    },
+    {
+      "id": 122,
+      "name": "gk/geom_034",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/waist_roll_link",
+      "position": [
+        4.2039639478938104,
+        5.375318902658795e-07,
+        0.8355003359781742
+      ]
+    },
+    {
+      "id": 123,
+      "name": "gk/geom_035",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/torso_link",
+      "position": [
+        4.19907972600924,
+        -0.002122432415161523,
+        0.984807834333297
+      ]
+    },
+    {
+      "id": 124,
+      "name": "gk/geom_036",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/torso_link",
+      "position": [
+        4.19907972600924,
+        -0.002122432415161523,
+        0.984807834333297
+      ]
+    },
+    {
+      "id": 125,
+      "name": "gk/geom_037",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/torso_link",
+      "position": [
+        4.200944408306319,
+        -0.0011127782956188072,
+        1.0644603991787474
+      ]
+    },
+    {
+      "id": 126,
+      "name": "gk/geom_038",
+      "contype": 1,
+      "conaffinity": 1,
+      "body": "gk/torso_link",
+      "position": [
+        4.200944408306319,
+        -0.0011127782956188072,
+        1.0644603991787474
+      ]
+    },
+    {
+      "id": 127,
+      "name": "gk/geom_039",
+      "contype": 0,
+      "conaffinity": 0,
+      "body": "gk/torso_link",
+      "position": [
+        4.196763133148201,
+        -9.466976661816276e-05,
+        1.2222415600756842
+      ]
+    }
+  ],
+  "initial_contacts": [],
+  "exclude_signature": [],
+  "counts": {
+    "nq": 80,
+    "nv": 77,
+    "nu": 59,
+    "ngeom": 161
+  },
+  "pelvis": [
+    4.2,
+    0.0,
+    0.793
+  ],
+  "rail_joint": 32,
+  "rail_actuator": 58,
+  "rail_limits": {
+    "joint_travel": 0.75,
+    "command_travel": 0.65,
+    "reference_speed": 0.3,
+    "reference_acceleration": 0.5,
+    "drive_acceleration": 1.0,
+    "force": 120.0,
+    "velocity_guard": 0.35,
+    "measured_speed_acceptance": 0.4,
+    "measured_acceleration_acceptance": 8.0
+  },
+  "pelvis_constraint": "Only lateral slide; pelvis height/orientation cannot crouch or lean. Joint motion is not free balance.",
+  "model_opt": {
+    "disableflags": 0,
+    "enableflags": 0
+  }
+}

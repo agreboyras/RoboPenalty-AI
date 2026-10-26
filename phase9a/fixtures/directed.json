@@ -1,0 +1,17 @@
+[
+ {"phase":"READY","penalty":0,"text":"Iniciar partido"},
+ {"phase":"PREPARING","penalty":1,"waiting_shot":true,"text":"Patea a la izquierda y a la derecha"},
+ {"phase":"PREPARING","penalty":1,"waiting_shot":true,"after":[1],"text":"Patea a la esquina izquierda"},
+ {"phase":"PREPARING","penalty":1,"waiting_shot":true,"after":[2],"text":"Pateá a la derecha"},
+ {"phase":"SHOOTING","penalty":1,"sim_s":1,"text":"Patea a la esquina derecha"},
+ {"phase":"SHOOTING","penalty":1,"sim_s":1,"text":"Modo automatico"},
+ {"phase":"SHOOTING","penalty":1,"sim_s":2,"text":"Pausar partida"},
+ {"phase":"SHOOTING","penalty":1,"paused":true,"pause_wall_s":0.2,"after":[6],"text":"Estado"},
+ {"phase":"SHOOTING","penalty":1,"paused":true,"pause_wall_s":0.3,"after":[7],"text":"Reanudar partida"},
+ {"phase":"PREPARING","penalty":2,"waiting_shot":true,"text":"/cam goal"},
+ {"phase":"PREPARING","penalty":2,"waiting_shot":true,"wait_wall_s":0.2,"text":"Pateá a la derecha abierta"},
+ {"phase":"PREPARING","penalty":3,"waiting_shot":true,"wait_wall_s":0.1,"text":"Patea a la esquina derecha"},
+ {"phase":"PREPARING","penalty":4,"waiting_shot":true,"text":"/cam behind"},
+ {"phase":"PREPARING","penalty":4,"waiting_shot":true,"wait_wall_s":0.1,"text":"Tirá a la izquierda"},
+ {"phase":"PREPARING","penalty":5,"waiting_shot":true,"wait_wall_s":0.1,"text":"Dispará al centro"}
+]

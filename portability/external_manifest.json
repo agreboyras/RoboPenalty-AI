@@ -1,0 +1,1051 @@
+{
+  "version": 1,
+  "role": "External file integrity only; not a simulation outcome or physics baseline",
+  "files": [
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "FSM/FSM.py",
+      "sha256": "c221453d61919beb1e5a75f955db2bf1517d82575dae1643feb39ec21ed66f12"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "FSM/FSMState.py",
+      "sha256": "d6b1ff60211d3e28988830cac3e2d4365c843fdcefd1a2c5e349c41f50709918"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "FSM/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "common/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "common/ball_state_dds.py",
+      "sha256": "53f5d42792db796b605e79b3d987066db845f5b4b2a2d6d4b1d39bdcf672063e"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "common/command_helper.py",
+      "sha256": "f484461e82147659646bc2377f2c8fb63f034a7c58d01f83e3d39b9cbac6fc33"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "common/ctrlcomp.py",
+      "sha256": "261a360db66d238fc618f247b0198a412079b1dfc5494d7c24d070826acdc8ad"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "common/joystick.py",
+      "sha256": "065460f6c4c88129363b2146f9c8646a70f3325ffca2fadef0fe067674b99c64"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "common/lidar_ball_debug_dds.py",
+      "sha256": "e67d25ec5a654031fafa9b2a3ead687bab3b048423007f638e5ae0fbc099091f"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "common/logger.py",
+      "sha256": "d93ba25370d07e68b409c56357c859c2bb3d43dbd1548532625cdc847f7bbaa9"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "common/path_config.py",
+      "sha256": "8e673268aa3fab0fd2b285e4d38bad41f55586cf2369a66185b3ea6ebbc767f3"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "common/remote_controller.py",
+      "sha256": "a91968d638fccf8b402e0498eb0093a6e9390aa920fae8ad6a38f8e91ba02b1d"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "common/rotation_helper.py",
+      "sha256": "7766f2de512042f9f20be4273aa9592cab92ad08798090d8ae960b7bd669d9ae"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "common/target_state_dds.py",
+      "sha256": "069a715c140acbeaec1df2b2616b9529644d42aafe71af49b334df8c246ea9d0"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "common/utils.py",
+      "sha256": "3a9d6f917af351a33656d67c7109ad81b229a7056bdb3f3339276c1f22551228"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "deploy_mujoco/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "deploy_mujoco/celebration_coordinator.py",
+      "sha256": "9eaf7b308b643a9a8e4a9890587aa2b297105d5379fdc30d0683e2e39168bb33"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "deploy_mujoco/config/mujoco.yaml",
+      "sha256": "4bcc5ea6068d01ba207e66720f4f40b9370dc4e63c707bdb0cbc5178aeef058e"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "deploy_mujoco/config/mujoco_freekick.yaml",
+      "sha256": "25e6825f4819f5c95b33aaefe5240efe4dc4b6f1182e985a76ad0999110ee96b"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "deploy_mujoco/deploy_mujoco.py",
+      "sha256": "9ba4a98ae9185f25d0bff0d9cc1c65bc16a12afdb0a8c82f32a2246f3473f7cc"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/g1_29dof_rev_1_0.xml",
+      "sha256": "62d99864c0926d32bb678bb9367d222d811ba454f81c19723861341cff61bdee"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/g1_liao.xml",
+      "sha256": "3cb0476117a3180d65a180cd0e833aa4a7c3c578c566be08279f2df99603f5e2"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/head_link.STL",
+      "sha256": "005fb67fbd3eff94aa8bf4a6e83238174e9f91b6721f7111594322f223724411"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_ankle_pitch_link.STL",
+      "sha256": "d49e3abc6f5b12e532062cd575b87b5ef40cd2a3fc18f54a1ca5bba4f773d51d"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_ankle_roll_link.STL",
+      "sha256": "c4092af943141d4d9f74232f3cfa345afc6565f46a077793b8ae0e68b39dc33f"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_elbow_link.STL",
+      "sha256": "fa752198accd104d5c4c3a01382e45165b944fbbc5acce085059223324e5bed3"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_hand_index_0_link.STL",
+      "sha256": "6b35f2f77211d5a366f0b9a4e47c4ee35e536731266f1a34e9efa12db579b892"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_hand_index_1_link.STL",
+      "sha256": "9e315ebc8a7a0cb98e033985b586b20d81cf8aa761181ae61ce56fcb14077a06"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_hand_middle_0_link.STL",
+      "sha256": "6b35f2f77211d5a366f0b9a4e47c4ee35e536731266f1a34e9efa12db579b892"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_hand_middle_1_link.STL",
+      "sha256": "9e315ebc8a7a0cb98e033985b586b20d81cf8aa761181ae61ce56fcb14077a06"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_hand_palm_link.STL",
+      "sha256": "23a486b75bd78a9bf03cec25d84d87f97f3dae038cf21a743b6d469b337e4004"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_hand_thumb_0_link.STL",
+      "sha256": "a90c721661c0622685488a3c74d1e122c7da89242d3a1daef75edb83422d05e0"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_hand_thumb_1_link.STL",
+      "sha256": "445c54a45bc13ce36001556f66bc0f49c83cb40321205ae4d676bb2874325684"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_hand_thumb_2_link.STL",
+      "sha256": "3d8dbe5085acfc213d21aa8b0782e89cd79084e9678f3a85fc7b04a86b029db5"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_hip_pitch_link.STL",
+      "sha256": "4725168105ee768ee31638ef22b53f6be2d7641bfd7cfefe803488d884776fa4"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_hip_roll_link.STL",
+      "sha256": "91f25922ee8a7c3152790051bebad17b4d9cd243569c38fe340285ff93a97acf"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_hip_yaw_link.STL",
+      "sha256": "a16d88aa6ddac8083aa7ad55ed317bea44b1fa003d314fba88965b7ed0f3b55b"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_knee_link.STL",
+      "sha256": "8d92b9e3d3a636761150bb8025e32514c4602b91c7028d523ee42b3e632de477"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_rubber_hand.STL",
+      "sha256": "cff2221a690fa69303f61fce68f2d155c1517b52efb6ca9262dd56e0bc6e70fe"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_shoulder_pitch_link.STL",
+      "sha256": "f0d1cfd02fcf0d42f95e678eeca33da3afbcc366ffba5c052847773ec4f31d52"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_shoulder_roll_link.STL",
+      "sha256": "fb9df21687773522598dc384f1a2945c7519f11cbc8bd372a49170316d6eee88"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_shoulder_yaw_link.STL",
+      "sha256": "1aa97e9748e924336567992181f78c7cd0652fd52a4afcca3df6b2ef6f9e712e"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_wrist_pitch_link.STL",
+      "sha256": "b251d8e05047f695d0f536cd78c11973cfa4e78d08cfe82759336cc3471de3a9"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_wrist_roll_link.STL",
+      "sha256": "edc387c9a0ba8c2237e9b296d32531426fabeb6f53e58df45c76106bca74148c"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_wrist_roll_rubber_hand.STL",
+      "sha256": "e81030abd023bd9e4a308ef376d814a2c12d684d8a7670c335bbd5cd7809c909"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/left_wrist_yaw_link.STL",
+      "sha256": "83f8fb3a726bf9613d65dd14f0f447cb918c3c95b3938042a0c9c09749267d3b"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/logo_link.STL",
+      "sha256": "8571a0a19bc4916fa55f91449f51d5fdefd751000054865a842449429d5f155b"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/pelvis.STL",
+      "sha256": "5ba6bbc888e630550140d3c26763f10206da8c8bd30ed886b8ede41c61f57a31"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/pelvis_contour_link.STL",
+      "sha256": "5cc5c2c7a312329e3feeb2b03d3fc09fc29705bd01864f6767e51be959662420"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_ankle_pitch_link.STL",
+      "sha256": "15be426539ec1be70246d4d82a168806db64a41301af8b35c197a33348c787a9"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_ankle_roll_link.STL",
+      "sha256": "4b66222ea56653e627711b56d0a8949b4920da5df091da0ceb343f54e884e3a5"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_elbow_link.STL",
+      "sha256": "1be925d7aa268bb8fddf5362b9173066890c7d32092c05638608126e59d1e2ab"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_hand_index_0_link.STL",
+      "sha256": "12ab4300c95e437e834f9aef772b3b431c671bf34338930b52ad11aef73bbd0d"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_hand_index_1_link.STL",
+      "sha256": "c9c34efce4563cacdcfd29fc838a982976d40f5442c71219811dcbbf3923a33d"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_hand_middle_0_link.STL",
+      "sha256": "12ab4300c95e437e834f9aef772b3b431c671bf34338930b52ad11aef73bbd0d"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_hand_middle_1_link.STL",
+      "sha256": "c9c34efce4563cacdcfd29fc838a982976d40f5442c71219811dcbbf3923a33d"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_hand_palm_link.STL",
+      "sha256": "86c0b231cc44477d64a6493e5a427ba16617a00738112dd187c652675b086fb9"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_hand_thumb_0_link.STL",
+      "sha256": "544298d0ea1088f5b276a10cc6a6a9e533efdd91594955fdc956c46211d07f83"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_hand_thumb_1_link.STL",
+      "sha256": "0a9a820da8dd10f298778b714f1364216e8a5976f4fd3a05689ea26327d44bf6"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_hand_thumb_2_link.STL",
+      "sha256": "3f1bfb37668e8f61801c8d25f171fa1949e08666be86c67acad7e0079937cc45"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_hip_pitch_link.STL",
+      "sha256": "e4f3c99d7f4a7d34eadbef9461fc66e3486cb5442db1ec50c86317d459f1a9c6"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_hip_roll_link.STL",
+      "sha256": "4c254ef66a356f492947f360dd931965477b631e3fcc841f91ccc46d945d54f6"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_hip_yaw_link.STL",
+      "sha256": "e479c2936ca2057e9eb2f7dff6c189b7419d7b8484dea0b298cbb36a2a6aa668"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_knee_link.STL",
+      "sha256": "63c4008449c9bbe701a6e2b557b7a252e90cf3a5abcf54cee46862b9a69f8ec8"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_rubber_hand.STL",
+      "sha256": "99533b778bca6246144fa511bb9d4e555e075c641f2a0251e04372869cd99d67"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_shoulder_pitch_link.STL",
+      "sha256": "24cdb387e0128dfe602770a81c56cdce3a0181d34d039a11d1aaf8819b7b8c02"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_shoulder_roll_link.STL",
+      "sha256": "962b97c48f9ce9e8399f45dd9522e0865d19aa9fd299406b2d475a8fc4a53e81"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_shoulder_yaw_link.STL",
+      "sha256": "a0b76489271da0c72461a344c9ffb0f0c6e64f019ea5014c1624886c442a2fe5"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_wrist_pitch_link.STL",
+      "sha256": "d22f8f3b3127f15a63e5be1ee273cd5075786c3142f1c3d9f76cbf43d2a26477"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_wrist_roll_link.STL",
+      "sha256": "a7ee9212ff5b94d6cb7f52bb1bbf3f352194d5b598acff74f4c77d340c5b344f"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_wrist_roll_rubber_hand.STL",
+      "sha256": "0729aff1ac4356f9314de13a46906267642e58bc47f0d8a7f17f6590a6242ccf"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/right_wrist_yaw_link.STL",
+      "sha256": "bc9dece2d12509707e0057ba2e48df8f3d56db0c79410212963a25e8a50f61a6"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/torso_constraint_L_link.STL",
+      "sha256": "82be7f93e85b3d303a1d1e1847e2c916939bd61c424ed1ebd28691ec33909dd1"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/torso_constraint_L_rod_link.STL",
+      "sha256": "c10de1effa7ea797ac268006aa2a739036c7e1f326b2012d711ee2c20c5a6e96"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/torso_constraint_R_link.STL",
+      "sha256": "54ded433a3a0c76027365856fdbd55215643de88846f7d436598a4071e682725"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/torso_constraint_R_rod_link.STL",
+      "sha256": "cb83fd38a9f06c99e3f301c70f12d94ae770a8f0cf9501f83580a27f908990b4"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/torso_link.STL",
+      "sha256": "e96d023f0368a4e3450b86ca5d4f10227d8141156a373e7da8cb3c93266523e0"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/torso_link_23dof_rev_1_0.STL",
+      "sha256": "3cd0d56fde14b73c1623304684805029971c4f84b596f9914e823ca70a107fd2"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/torso_link_rev_1_0.STL",
+      "sha256": "11ddb46f2098efbbd8816b1d65893632d8e78be936376c7cdcd6771899ccc723"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/waist_constraint_L.STL",
+      "sha256": "8ebafdcb4de6871113f0ca2c356618d6e46b1d50f6c0bf9e37f47b9d8e100d99"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/waist_constraint_R.STL",
+      "sha256": "791902a291ffbd35ab97383b7b44ea5d975de7c80eef838797c970790b382ca9"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/waist_roll_link.STL",
+      "sha256": "34f0aa73f41131230be4d25876c944fdf6c24d62553f199ff8b980c15e8913df"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/waist_roll_link_rev_1_0.STL",
+      "sha256": "b67c347a05abc3e8ddae600d98a082bee273bb39f8e651647708b0a7140a8a97"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/waist_support_link.STL",
+      "sha256": "1fae9e1bb609848a1667d32eed8d6083ae443538a306843056a2a660f1b2926a"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/waist_yaw_link.STL",
+      "sha256": "2883f20e03f09b669b5b4ce10677ee6b5191c0934b584d7cbaef2d0662856ffb"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/meshes/waist_yaw_link_rev_1_0.STL",
+      "sha256": "ec6db442b11f25eed898b5add07940c85d804f300de24dcbd264ccd8be7d554c"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/scene.xml",
+      "sha256": "3c3df2718a71503a7b50577f635769d794129f527deb5e0dd35e4a3242bb2e91"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "g1_description/scene_with_ball.xml",
+      "sha256": "9de559d2ed75e49614c36fb8f43036d370bc1a2dc415c7ac39bb9424ecc57795"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/amp/Amp.py",
+      "sha256": "2f4f6860ce6afd928c33f2fdffe0fa5bf1b10bc640ff0dc52fb9d5c14133ef67"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/amp/config/amp.yaml",
+      "sha256": "c67866dcb47ebb07d367e80831b1052fe8cb24d12b18336a14a95ba38e177681"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/amp/model/amp_0309_1.onnx",
+      "sha256": "e3b8fb3d6d8345981173863b5e6955f3177566a0c021e7ed62d03e048d47cc4c"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic/BeyondMimic.py",
+      "sha256": "b18c956804ed018db0517d99be77e473844ed128d92854672d253709c6e40d1e"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic/README.md",
+      "sha256": "c80c739ed86e804021b59327c47103f32121b98d6aeeb3b920d2d8c85681666e"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic/config/beyondmimic.yaml",
+      "sha256": "51eb3917f32bb0c8176cf51974620b36a6cd106ec2189f591653856f6bf2b8df"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic/model/dance_zui.npz",
+      "sha256": "ec80d22d144475b92dab26a73ed3823e4d8c29a4c6dd12131e25b3f2cb1253c4"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic/model/fallAndGetUp2_subject2.npz",
+      "sha256": "878523c4a4ea80eabe2f51792c8a1f5dfff306731bf084ce90c84f6832619f59"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic/model/kick-new.npz",
+      "sha256": "108f3fa7972a240d2b324b14585d215eb3cfbe375aef691cf017add1e25a69f9"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic/model/policy_fallAndGetUp2_subject2_4000.onnx",
+      "sha256": "dd97a0535247910023242d4a5534abbc2136623ffbfbe0f6bee882085b0883e2"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic/model/policy_kick-new_4000.onnx",
+      "sha256": "b7db72c488e4a8fd3a9b3ebf82a5380a2d3a8e0e2460b4dbcb7762e3ea8bca15"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic/model/policy_zuiwu_48000.onnx",
+      "sha256": "d90103bf8e7946912aa5188e6eec3c65aed8ffc57a76df45cd00d24db11d2cec"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic_mj/BeyondMimicMJ.py",
+      "sha256": "2f00f12442caf7c7ddc3459f1dfc8946ff24aba34fb4e99a70aaec6885e411c2"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic_mj/config/beyondmimic_mj.yaml",
+      "sha256": "bafa8847c5b0701303cc494aaf06fce8d62d87841e3401a2333a683e67ed0625"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic_mj/config/g1_result_pinocchio_1_6_mj.yaml",
+      "sha256": "af2e7b136f8193dab36a110b98299f1edfda48053263d1bd34535a77f0f15bf0"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic_mj/config/standup_mj.yaml",
+      "sha256": "f5b523df18061585a22542723437f5876571a1defc962089afe98055e43d6868"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic_mj/model/beyondmimic_mj.onnx",
+      "sha256": "40a904463849e193af0751080d6148a03acd72a085e4de870dc25e30b2f747ea"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic_mj/model/fallAndGetUp2_subject2_mj.npz",
+      "sha256": "db8c952ebad092bf6f1243fea079427e310b9fbd8892f6fccdae431c85f6c66b"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic_mj/model/g1_result_pinocchio_1.6_motion.npz",
+      "sha256": "c06374d59ab0fe33175f022297f533e2ff5feee9138e1b7bd3196e67a0900e1f"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/beyondmimic_mj/model/g1_result_pinocchio_1_6_tracking.onnx",
+      "sha256": "7f9c7a3469e88f01e5ef76858594fd20424e73143c4957e6292d354b2d36c1f1"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/celebration/Celebration.py",
+      "sha256": "e3cb199d8a74c8aa6ff72c190b6e8dc8cb62c9adee7ed52a0af5a455d262d30e"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/celebration/__init__.py",
+      "sha256": "5815c92fb82b2ee06fc93b1aa456ff17125c7a63274546aae4274bb7f8bd8210"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/celebration/config/victory_pose.yaml",
+      "sha256": "86ea187258870b5eb825000cd575b6088c001d0b5306b57260af019571975c66"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/fixedpose/FixedPose.py",
+      "sha256": "5becd11d0b221a83e24b9651165ba30a77eeac3e48d3440fd59394c582431b58"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/fixedpose/config/FixedPose.yaml",
+      "sha256": "e239f686b0c11feb6dedbf436925fac88a812cc1e4765184b656e7447a780cc1"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/loco_mode/LocoMode.py",
+      "sha256": "14574033a429a0ad3ee7eef155193b90dbcdb265e0198b7e0987586343a48bb6"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/loco_mode/config/LocoMode.yaml",
+      "sha256": "9c390979661d72074c64043cad3889fe69e6c2911473d5a1f69abdf27cd8b935"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/loco_mode/model/policy_29dof.pt",
+      "sha256": "d1d91b0201beeb649a4624ba40052d10fe4aebe98bf6f4847decf75dd1fee2da"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/passive/PassiveMode.py",
+      "sha256": "6c42329ec92ae02ca0a1137ff55ecc5e77f6cb1419bc77d65fb35910b82347c5"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/passive/config/Passive.yaml",
+      "sha256": "9059fb9f31528d511a294bddee2bafd1facede444ed65fa40f79aa744be23299"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/robonaldo/FreeKick.py",
+      "sha256": "4dec2ca701310761ab1705660796b5b1ed8bf6ba5209c02f3b06d731be255f39"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/robonaldo/README.md",
+      "sha256": "3812811920f0169a2e2b78a18c45bfede3ce6126b31eeaa6ad5ec592cc8e689a"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/robonaldo/REFACTOR_NOTES.md",
+      "sha256": "75dae913cb20c461ed5cc49df939609db43aa33f6763ba8ef54cfff09de13bb2"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/robonaldo/config/freekick.yaml",
+      "sha256": "15093313b0a2f00c736d5ca8da490c009cb0f7acf31d3072ef697465acc6b202"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/robonaldo/model/freekick_motion.npz",
+      "sha256": "108f3fa7972a240d2b324b14585d215eb3cfbe375aef691cf017add1e25a69f9"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "policy/robonaldo/model/policy-obs-aic.onnx",
+      "sha256": "b952af481c47402c40a883ea214635368b44ee36de356780258d04601eaa3774"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "tools/check_ball_state.py",
+      "sha256": "075aabfff40efe96079418ee4874fe21cbfa4447eb0c40f93f0c8a4cbf40bfa9"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "tools/check_dds_connection.py",
+      "sha256": "427acb4a22f65b659cfa386d321d58a467e30b1159e505aa8ed0b21509605331"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "tools/export_video.py",
+      "sha256": "bda1b7ec45e9f6748022913b95651c8be297b680c8076f89725ecffa0b944066"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "tools/joystick_test.py",
+      "sha256": "7caf7de03a4c1823f24593ab95c42c639bafd5df96f15296ea21d7b7b7641ff4"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "tools/measure_freekick_mujoco.py",
+      "sha256": "45768f23e7b721ec1e48d0e451119af746e554f60a39342f332e27e79bd2b839"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "tools/playback_log.py",
+      "sha256": "e5bbd8314b8e96aed5de2bd5eea29f620dc045d40d3cafabb9a7d051c09c4dad"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "tools/record_d455_rgb.py",
+      "sha256": "0be64eed9c3838a2271c50aeb842e05dd15e3bb223fc86180c5669938964e6ec"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "tools/start_tmux_layout.sh",
+      "sha256": "2ddbf7500d1d7a3401fd8fb676906f7cd962f0f9ed464a4eb7e4c839755db22d"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "tools/test_consola_voz.py",
+      "sha256": "6179f3bb60cbb571715e3bbd9bce2c1fbd23f9414b91a6bfc2180b5e91ec13e7"
+    },
+    {
+      "root": "RoboNaldo_Deploy",
+      "path": "tools/test_futbol_ia.py",
+      "sha256": "bb261c104220dbcb090e4aa0571508aa6194e6925842f80e86d06ca18700cc6a"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "LICENSE",
+      "sha256": "e1960a702ffe71b34cc6bc23f2e9c8724ef78e412610b6cf5747d4f4f3dc7b55"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/g1_23dof.xml",
+      "sha256": "2876f3331af5b5a63bb71d78aa28a733d9b743fdb955b439fad88d2c86a4cb22"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/g1_29dof.xml",
+      "sha256": "5a7f31b62a02dc86546046fb8f23dd70663f8fadc3fc49f68758bbe54ebf921a"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/g1_joint_index_dds.md",
+      "sha256": "de60f8005feb4189e9a45afd8f22934cf4e816d1ba2b86b0964c4b7123ff4660"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/height_field.png",
+      "sha256": "996b940ec9fcbe5551d436f76040f6b3690e90fb056ff8f2ba8c650c91f39e10"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/images/g1_23dof.png",
+      "sha256": "8cd8db7c7abd7a7123cc1bc702e9a7aefb22ac18e8a5b52745b7b60cd371e1d3"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/images/g1_29dof.png",
+      "sha256": "9d7d6c0755b6eadf2386d476cc64137f217f16ea2f7c8e0e06daf0d8e00e60ea"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/images/g1_29dof_with_hand.png",
+      "sha256": "2a14b131c83f437ad5954bb2efc38da5e6afb9ee6817fb9871072b3adf55a3f4"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/images/g1_dual_arm.png",
+      "sha256": "e8d427240c35ac5dd012a4bf4fc52dabe8bddd476a883ae9364d05fc3e8b85ee"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/head_link.STL",
+      "sha256": "d297328b3569fc85074355e76cba6c889d19de5361224bcd3c5b8ce82e13b9b6"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_ankle_pitch_link.STL",
+      "sha256": "d49e3abc6f5b12e532062cd575b87b5ef40cd2a3fc18f54a1ca5bba4f773d51d"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_ankle_roll_link.STL",
+      "sha256": "c4092af943141d4d9f74232f3cfa345afc6565f46a077793b8ae0e68b39dc33f"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_elbow_link.STL",
+      "sha256": "fa752198accd104d5c4c3a01382e45165b944fbbc5acce085059223324e5bed3"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_hand_index_0_link.STL",
+      "sha256": "efaabe6a8c850f628c55ab5ed8402757d5263262e8c32943f9bfbec4329d9a8a"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_hand_index_1_link.STL",
+      "sha256": "926e5fc790ddbabf222e7b7ee5b790a45b090d27a4a87e558a5ba57516b6a805"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_hand_middle_0_link.STL",
+      "sha256": "efaabe6a8c850f628c55ab5ed8402757d5263262e8c32943f9bfbec4329d9a8a"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_hand_middle_1_link.STL",
+      "sha256": "926e5fc790ddbabf222e7b7ee5b790a45b090d27a4a87e558a5ba57516b6a805"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_hand_palm_link.STL",
+      "sha256": "d48b0b1dbd2def01867de0840ed643e6ae8f4882fe81368540830448e2fba58f"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_hand_thumb_0_link.STL",
+      "sha256": "c63f6a2e8d700940c172cfa8a5fab2d8c2785abc43bc258d3adf315ceb1fa653"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_hand_thumb_1_link.STL",
+      "sha256": "ba3d13e21e8ed1e4885bdbf562326abdae41964c0fee63eceeebebdcf5fff935"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_hand_thumb_2_link.STL",
+      "sha256": "9985783981720896e54347dbcf9d8cbfb991a264ac4fa44cfc017dae1b83fdcd"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_hip_pitch_link.STL",
+      "sha256": "4725168105ee768ee31638ef22b53f6be2d7641bfd7cfefe803488d884776fa4"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_hip_roll_link.STL",
+      "sha256": "91f25922ee8a7c3152790051bebad17b4d9cd243569c38fe340285ff93a97acf"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_hip_yaw_link.STL",
+      "sha256": "a16d88aa6ddac8083aa7ad55ed317bea44b1fa003d314fba88965b7ed0f3b55b"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_knee_link.STL",
+      "sha256": "8d92b9e3d3a636761150bb8025e32514c4602b91c7028d523ee42b3e632de477"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_rubber_hand.STL",
+      "sha256": "cff2221a690fa69303f61fce68f2d155c1517b52efb6ca9262dd56e0bc6e70fe"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_shoulder_pitch_link.STL",
+      "sha256": "f0d1cfd02fcf0d42f95e678eeca33da3afbcc366ffba5c052847773ec4f31d52"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_shoulder_roll_link.STL",
+      "sha256": "fb9df21687773522598dc384f1a2945c7519f11cbc8bd372a49170316d6eee88"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_shoulder_yaw_link.STL",
+      "sha256": "1aa97e9748e924336567992181f78c7cd0652fd52a4afcca3df6b2ef6f9e712e"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_wrist_pitch_link.STL",
+      "sha256": "b251d8e05047f695d0f536cd78c11973cfa4e78d08cfe82759336cc3471de3a9"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_wrist_roll_link.STL",
+      "sha256": "edc387c9a0ba8c2237e9b296d32531426fabeb6f53e58df45c76106bca74148c"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_wrist_roll_rubber_hand.STL",
+      "sha256": "e81030abd023bd9e4a308ef376d814a2c12d684d8a7670c335bbd5cd7809c909"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/left_wrist_yaw_link.STL",
+      "sha256": "83f8fb3a726bf9613d65dd14f0f447cb918c3c95b3938042a0c9c09749267d3b"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/logo_link.STL",
+      "sha256": "8571a0a19bc4916fa55f91449f51d5fdefd751000054865a842449429d5f155b"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/pelvis.STL",
+      "sha256": "5ba6bbc888e630550140d3c26763f10206da8c8bd30ed886b8ede41c61f57a31"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/pelvis_contour_link.STL",
+      "sha256": "5cc5c2c7a312329e3feeb2b03d3fc09fc29705bd01864f6767e51be959662420"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_ankle_pitch_link.STL",
+      "sha256": "15be426539ec1be70246d4d82a168806db64a41301af8b35c197a33348c787a9"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_ankle_roll_link.STL",
+      "sha256": "4b66222ea56653e627711b56d0a8949b4920da5df091da0ceb343f54e884e3a5"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_elbow_link.STL",
+      "sha256": "1be925d7aa268bb8fddf5362b9173066890c7d32092c05638608126e59d1e2ab"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_hand_index_0_link.STL",
+      "sha256": "8bac717a5ff4c5a6f4ca839091ad935392859795a68a5a547bc5ecb3f196f40d"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_hand_index_1_link.STL",
+      "sha256": "06a5f46b5705a1e54205fc01ed437d475e194a205b72ba78d00c8f26481237bb"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_hand_middle_0_link.STL",
+      "sha256": "a02dd3c5b6747e76016f3a1cab27173fa218b0eb271570847be64d8a390022d1"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_hand_middle_1_link.STL",
+      "sha256": "60ca1810b7b1371733556660e9e2167790355a83cad9ba55dbd236f2020a228a"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_hand_palm_link.STL",
+      "sha256": "5e95f19c4daa3ed7f765d465ba763153d7a76e4c02cbe6d8c567cd67f89f1c1b"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_hand_thumb_0_link.STL",
+      "sha256": "30f91ca9cccda42065c98cbe635ff87cd1e004b82d38888fd7e741cf0998d01d"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_hand_thumb_1_link.STL",
+      "sha256": "acdd00f613ea4253229461e1367be5331e6631df49e1d40fe283c2bd4c66469f"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_hand_thumb_2_link.STL",
+      "sha256": "36256d0253ae42e0652fbe3e3992b6ac9b5aefd839694ad39b4af143d4efa85f"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_hip_pitch_link.STL",
+      "sha256": "e4f3c99d7f4a7d34eadbef9461fc66e3486cb5442db1ec50c86317d459f1a9c6"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_hip_roll_link.STL",
+      "sha256": "4c254ef66a356f492947f360dd931965477b631e3fcc841f91ccc46d945d54f6"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_hip_yaw_link.STL",
+      "sha256": "e479c2936ca2057e9eb2f7dff6c189b7419d7b8484dea0b298cbb36a2a6aa668"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_knee_link.STL",
+      "sha256": "63c4008449c9bbe701a6e2b557b7a252e90cf3a5abcf54cee46862b9a69f8ec8"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_rubber_hand.STL",
+      "sha256": "99533b778bca6246144fa511bb9d4e555e075c641f2a0251e04372869cd99d67"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_shoulder_pitch_link.STL",
+      "sha256": "24cdb387e0128dfe602770a81c56cdce3a0181d34d039a11d1aaf8819b7b8c02"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_shoulder_roll_link.STL",
+      "sha256": "962b97c48f9ce9e8399f45dd9522e0865d19aa9fd299406b2d475a8fc4a53e81"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_shoulder_yaw_link.STL",
+      "sha256": "a0b76489271da0c72461a344c9ffb0f0c6e64f019ea5014c1624886c442a2fe5"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_wrist_pitch_link.STL",
+      "sha256": "d22f8f3b3127f15a63e5be1ee273cd5075786c3142f1c3d9f76cbf43d2a26477"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_wrist_roll_link.STL",
+      "sha256": "a7ee9212ff5b94d6cb7f52bb1bbf3f352194d5b598acff74f4c77d340c5b344f"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_wrist_roll_rubber_hand.STL",
+      "sha256": "0729aff1ac4356f9314de13a46906267642e58bc47f0d8a7f17f6590a6242ccf"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/right_wrist_yaw_link.STL",
+      "sha256": "bc9dece2d12509707e0057ba2e48df8f3d56db0c79410212963a25e8a50f61a6"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/torso_constraint_L_link.STL",
+      "sha256": "82be7f93e85b3d303a1d1e1847e2c916939bd61c424ed1ebd28691ec33909dd1"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/torso_constraint_L_rod_link.STL",
+      "sha256": "c10de1effa7ea797ac268006aa2a739036c7e1f326b2012d711ee2c20c5a6e96"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/torso_constraint_R_link.STL",
+      "sha256": "54ded433a3a0c76027365856fdbd55215643de88846f7d436598a4071e682725"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/torso_constraint_R_rod_link.STL",
+      "sha256": "cb83fd38a9f06c99e3f301c70f12d94ae770a8f0cf9501f83580a27f908990b4"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/torso_link.STL",
+      "sha256": "e96d023f0368a4e3450b86ca5d4f10227d8141156a373e7da8cb3c93266523e0"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/waist_constraint_L.STL",
+      "sha256": "8ebafdcb4de6871113f0ca2c356618d6e46b1d50f6c0bf9e37f47b9d8e100d99"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/waist_constraint_R.STL",
+      "sha256": "791902a291ffbd35ab97383b7b44ea5d975de7c80eef838797c970790b382ca9"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/waist_roll_link.STL",
+      "sha256": "34f0aa73f41131230be4d25876c944fdf6c24d62553f199ff8b980c15e8913df"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/waist_support_link.STL",
+      "sha256": "1fae9e1bb609848a1667d32eed8d6083ae443538a306843056a2a660f1b2926a"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/meshes/waist_yaw_link.STL",
+      "sha256": "2883f20e03f09b669b5b4ce10677ee6b5191c0934b584d7cbaef2d0662856ffb"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/scene.xml",
+      "sha256": "e9b13c90c6053df4be736374256fd5ced2b625a47da7f32be699d44b192c5cf6"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/scene_23dof.xml",
+      "sha256": "5582080972f72f5426a388ba8e2dde32d2e7d9c549b14666a58f710ac4b11647"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/scene_29dof.xml",
+      "sha256": "958ed3f4a404d3d49ffce318bc8ac18cc3941fa17d214d655533620fb581856a"
+    },
+    {
+      "root": "unitree_mujoco",
+      "path": "unitree_robots/g1/unitree_hfield.png",
+      "sha256": "8a3f9777e096c5e8b6a5f8b2ca9382d5b25e2cacc15be7b5ac41f1e432e61a6c"
+    }
+  ]
+}

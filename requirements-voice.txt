@@ -1,0 +1,6 @@
+# Optional voice support, not validated operationally. No model is downloaded by pip.
+-r requirements.txt
+faster-whisper==1.2.1
+sounddevice==0.5.6
+av==18.1.0
+ctranslate2==4.8.2

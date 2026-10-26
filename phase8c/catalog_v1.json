@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "actions": {
+    "center": {
+      "bias": 0.0,
+      "role": "central",
+      "probe": "results/historical_grid/bias_p0_0000_dy+0.000_01.json",
+      "sha256": "f581c85df43e0ec816963b75b760a26595e82f875edcae5ddfdad9e3fefccff2",
+      "grid": [
+        {
+          "delta_y_m": -0.005,
+          "source": "results/historical_grid/bias_p0_0000_dy-0.005_01.json",
+          "sha256": "152c5ebada31a648ed174c730be58b487e040363175130233f3a46f9702113be"
+        },
+        {
+          "delta_y_m": -0.002,
+          "source": "results/historical_grid/bias_p0_0000_dy-0.002_01.json",
+          "sha256": "a624c8020f157ddbd62355b122983f832c32834835f6c68e2494721da4a970dd"
+        },
+        {
+          "delta_y_m": -0.001,
+          "source": "results/historical_grid/bias_p0_0000_dy-0.001_01.json",
+          "sha256": "884b5264d84ee22cfc5b88e347fa94005b15f90d748cd0d56e9f46ee3ddc37f4"
+        },
+        {
+          "delta_y_m": 0.0,
+          "source": "results/historical_grid/bias_p0_0000_dy+0.000_01.json",
+          "sha256": "f581c85df43e0ec816963b75b760a26595e82f875edcae5ddfdad9e3fefccff2"
+        },
+        {
+          "delta_y_m": 0.001,
+          "source": "results/historical_grid/bias_p0_0000_dy+0.001_01.json",
+          "sha256": "0c3a2c5b17d35e278d6a0d84c7cf0891611eb208d89f423e13029c716eb94b54"
+        },
+        {
+          "delta_y_m": 0.002,
+          "source": "results/historical_grid/bias_p0_0000_dy+0.002_01.json",
+          "sha256": "a5b1eeca93d7f30211a203e5a15e724e5d59ba11f40aa0dfc4e2512310c9ea4c"
+        },
+        {
+          "delta_y_m": 0.005,
+          "source": "results/historical_grid/bias_p0_0000_dy+0.005_01.json",
+          "sha256": "067300c95443819339350f7a834d6f5ed3e1c1f7dff6cf1d1e795b3916625db2"
+        }
+      ],
+      "assessment": {
+        "conditions": 7,
+        "complete_seven_point_grid": true,
+        "valid_contact_stable_goal_all": true,
+        "lateral_range_m": 0.0477126230092082,
+        "direction_consistent": true,
+        "min_sphere_post_margin_m": 1.255247026499559,
+        "passes_engineering_screen": true,
+        "passes_physical_consistency_screen": true,
+        "positive_y_all": false,
+        "corner_all": false,
+        "scope": "Only enumerated initial-Y perturbations; thresholds declared before new sweep; not a confidence bound"
+      }
+    },
+    "left_near_b060": {
+      "bias": 0.6,
+      "role": "near_center_left",
+      "probe": "results/conservative_grid/bias_p0_6000_dy+0.000_01.json",
+      "sha256": "26d0a55b97fa0d4a189521432b373e29ce37edaec804fd64e5e5aeba1fd6a036",
+      "grid": [
+        {
+          "delta_y_m": -0.005,
+          "source": "results/conservative_grid/bias_p0_6000_dy-0.005_02.json",
+          "sha256": "59ad3a76269ed9099c2d5ee72e56194433e0feb941e0e7beecaa44f71b879b1f"
+        },
+        {
+          "delta_y_m": -0.002,
+          "source": "results/conservative_grid/bias_p0_6000_dy-0.002_02.json",
+          "sha256": "c741145d21d08e139aba8a56ba5f5e855db167a17d29530550915d1f5379cb75"
+        },
+        {
+          "delta_y_m": -0.001,
+          "source": "results/conservative_grid/bias_p0_6000_dy-0.001_02.json",
+          "sha256": "ffdbe0d312c18f905fda8d2fbc7906f4ad2180c989c7cce9d0915b327fd47520"
+        },
+        {
+          "delta_y_m": 0.0,
+          "source": "results/conservative_grid/bias_p0_6000_dy+0.000_02.json",
+          "sha256": "98ac36c2454749a670c8ec2b9a92a59ddf7d9d1accb4fe20cce31cbee1ad4765"
+        },
+        {
+          "delta_y_m": 0.001,
+          "source": "results/conservative_grid/bias_p0_6000_dy+0.001_02.json",
+          "sha256": "2b46e64d490d01460f803c73e6ea4eca7e222d04ad0789f2e7fe9fec118edabc"
+        },
+        {
+          "delta_y_m": 0.002,
+          "source": "results/conservative_grid/bias_p0_6000_dy+0.002_02.json",
+          "sha256": "34eac0c6822b15cc62df7da8d8fdc2d96faf6bd2d3cc6d11eba6a9688d91c76c"
+        },
+        {
+          "delta_y_m": 0.005,
+          "source": "results/conservative_grid/bias_p0_6000_dy+0.005_02.json",
+          "sha256": "b784e2dc043c2150e606e5e1fb64ddf87b24dbc702195421ba3c42cd61a8f22f"
+        }
+      ],
+      "assessment": {
+        "conditions": 7,
+        "complete_seven_point_grid": true,
+        "valid_contact_stable_goal_all": true,
+        "lateral_range_m": 0.2699229842653227,
+        "direction_consistent": false,
+        "min_sphere_post_margin_m": 1.0473437748051866,
+        "passes_engineering_screen": false,
+        "passes_physical_consistency_screen": true,
+        "positive_y_all": true,
+        "corner_all": false,
+        "scope": "Only enumerated initial-Y perturbations; thresholds declared before new sweep; not a confidence bound"
+      }
+    },
+    "right_inter_m080": {
+      "bias": -0.8,
+      "role": "intermediate_right",
+      "probe": "results/historical_grid/bias_m0_8000_dy+0.000_01.json",
+      "sha256": "8138f4b8cc5a9ec67b8a5160364e50e7f6bd07da742927045401c1546dc1292f",
+      "grid": [
+        {
+          "delta_y_m": -0.005,
+          "source": "results/historical_grid/bias_m0_8000_dy-0.005_01.json",
+          "sha256": "d5ef08071437a816bf0e65a8c7e21993295b25e81bb5d716bcc11b4783dedcd3"
+        },
+        {
+          "delta_y_m": -0.002,
+          "source": "results/historical_grid/bias_m0_8000_dy-0.002_01.json",
+          "sha256": "186f91c816ec6393ec57b73da647777ab2ffba355d6c3f25841ea8bf2da2c54d"
+        },
+        {
+          "delta_y_m": -0.001,
+          "source": "results/historical_grid/bias_m0_8000_dy-0.001_01.json",
+          "sha256": "7fc0cd27f773d679e703b132df35e26e2b161cdddab4efa44c603e8e107a907e"
+        },
+        {
+          "delta_y_m": 0.0,
+          "source": "results/historical_grid/bias_m0_8000_dy+0.000_01.json",
+          "sha256": "8138f4b8cc5a9ec67b8a5160364e50e7f6bd07da742927045401c1546dc1292f"
+        },
+        {
+          "delta_y_m": 0.001,
+          "source": "results/historical_grid/bias_m0_8000_dy+0.001_01.json",
+          "sha256": "7de45b54e01aacb71813c53d0e48d965c23131c13c942104c460b1621163a656"
+        },
+        {
+          "delta_y_m": 0.002,
+          "source": "results/historical_grid/bias_m0_8000_dy+0.002_01.json",
+          "sha256": "b898ee5a8be4b6a6c6ded30db9935f8b3a7c9d7f6ab5832c4ec83923da1b7c04"
+        },
+        {
+          "delta_y_m": 0.005,
+          "source": "results/historical_grid/bias_m0_8000_dy+0.005_01.json",
+          "sha256": "eae9739da102cba9422bfbec6b456b61f58ef1cca7d19615b69f2ca5b8f3f449"
+        }
+      ],
+      "assessment": {
+        "conditions": 7,
+        "complete_seven_point_grid": true,
+        "valid_contact_stable_goal_all": true,
+        "lateral_range_m": 0.05678437042519857,
+        "direction_consistent": true,
+        "min_sphere_post_margin_m": 0.6389748280582922,
+        "passes_engineering_screen": true,
+        "passes_physical_consistency_screen": true,
+        "positive_y_all": false,
+        "corner_all": false,
+        "scope": "Only enumerated initial-Y perturbations; thresholds declared before new sweep; not a confidence bound"
+      }
+    },
+    "right_open_m100": {
+      "bias": -1.0,
+      "role": "open_right",
+      "probe": "results/final_candidate_grid/bias_m1_0000_dy+0.000_01.json",
+      "sha256": "083c63b26df42b4841abdc7e76531765ae9e7b56aebf6a7c2a81075495feadb6",
+      "grid": [
+        {
+          "delta_y_m": -0.005,
+          "source": "results/final_candidate_grid/bias_m1_0000_dy-0.005_02.json",
+          "sha256": "96a25becb1cb289533101aee1c460b374b27c0f533098a04c257f2d68ede394e"
+        },
+        {
+          "delta_y_m": -0.002,
+          "source": "results/final_candidate_grid/bias_m1_0000_dy-0.002_02.json",
+          "sha256": "65539b4725fba296c9290c29366d2029fb8984227ca341d9a3cf96c0906f69fd"
+        },
+        {
+          "delta_y_m": -0.001,
+          "source": "results/final_candidate_grid/bias_m1_0000_dy-0.001_02.json",
+          "sha256": "268e2ebb68800b39472f0b2cc0f05ab4ce6071b538083bdea6274ff5ebdcd708"
+        },
+        {
+          "delta_y_m": 0.0,
+          "source": "results/final_candidate_grid/bias_m1_0000_dy+0.000_02.json",
+          "sha256": "ba57b330b11300b8a7098d075cf3ac9a47b589676fa464e2582fad4637ad0495"
+        },
+        {
+          "delta_y_m": 0.001,
+          "source": "results/final_candidate_grid/bias_m1_0000_dy+0.001_02.json",
+          "sha256": "815571da3fd73c5d5f0b6e19e34ffd8ec4e9b440b983d0493be250b68ca35df3"
+        },
+        {
+          "delta_y_m": 0.002,
+          "source": "results/final_candidate_grid/bias_m1_0000_dy+0.002_02.json",
+          "sha256": "2f94051ad8dfb8151cb3e7631be69b2bcb2daaf00b0b9d9bc82e979834103cd8"
+        },
+        {
+          "delta_y_m": 0.005,
+          "source": "results/final_candidate_grid/bias_m1_0000_dy+0.005_02.json",
+          "sha256": "39cc629abaa4f68538c46cdb2a439064182fdda4bcb76ed0689c61723d126e71"
+        }
+      ],
+      "assessment": {
+        "conditions": 7,
+        "complete_seven_point_grid": true,
+        "valid_contact_stable_goal_all": true,
+        "lateral_range_m": 0.056658353279880336,
+        "direction_consistent": true,
+        "min_sphere_post_margin_m": 0.46838901846179404,
+        "passes_engineering_screen": true,
+        "passes_physical_consistency_screen": true,
+        "positive_y_all": false,
+        "corner_all": false,
+        "scope": "Only enumerated initial-Y perturbations; thresholds declared before new sweep; not a confidence bound"
+      }
+    },
+    "right_corner_m140": {
+      "bias": -1.4,
+      "role": "lower_corner_right",
+      "probe": "results/historical_grid/bias_m1_4000_dy+0.000_01.json",
+      "sha256": "f622a38910025413eb12083461f9764eaa52fbad8e8dc35c29a8116b69602a62",
+      "grid": [
+        {
+          "delta_y_m": -0.005,
+          "source": "results/historical_grid/bias_m1_4000_dy-0.005_01.json",
+          "sha256": "3a78884d553a33789b67f9c463f88ddec4f1ee722072177c98159df00f57f425"
+        },
+        {
+          "delta_y_m": -0.002,
+          "source": "results/historical_grid/bias_m1_4000_dy-0.002_01.json",
+          "sha256": "82e2e2ae6f007c2c339f9ba6ac4b039e8ffda86ddd92c0ed1defebfbfa67a73a"
+        },
+        {
+          "delta_y_m": -0.001,
+          "source": "results/historical_grid/bias_m1_4000_dy-0.001_01.json",
+          "sha256": "c5161fd40553b89021efc518491c956fa760aab7ef420626175fef84739cda0d"
+        },
+        {
+          "delta_y_m": 0.0,
+          "source": "results/historical_grid/bias_m1_4000_dy+0.000_01.json",
+          "sha256": "f622a38910025413eb12083461f9764eaa52fbad8e8dc35c29a8116b69602a62"
+        },
+        {
+          "delta_y_m": 0.001,
+          "source": "results/historical_grid/bias_m1_4000_dy+0.001_01.json",
+          "sha256": "3f498686a2b25cc5b71653c0bfb06bec41d3d5989b573464c2231dd32d423713"
+        },
+        {
+          "delta_y_m": 0.002,
+          "source": "results/historical_grid/bias_m1_4000_dy+0.002_01.json",
+          "sha256": "ac2ab635de7eb571baae7939a9b6b1f22231a551d583c6946383596577922055"
+        },
+        {
+          "delta_y_m": 0.005,
+          "source": "results/historical_grid/bias_m1_4000_dy+0.005_01.json",
+          "sha256": "622ced01d37ec7cce24aa07b45f49e9760953be9ce54b6e8b78dd21f66f4b733"
+        }
+      ],
+      "assessment": {
+        "conditions": 7,
+        "complete_seven_point_grid": true,
+        "valid_contact_stable_goal_all": true,
+        "lateral_range_m": 0.052829147117833486,
+        "direction_consistent": true,
+        "min_sphere_post_margin_m": 0.09688356736138813,
+        "passes_engineering_screen": true,
+        "passes_physical_consistency_screen": true,
+        "positive_y_all": false,
+        "corner_all": true,
+        "scope": "Only enumerated initial-Y perturbations; thresholds declared before new sweep; not a confidence bound"
+      }
+    }
+  },
+  "scope": "Enumerated Y offsets \u00b15/2/1/0mm only. Near-center-left does not claim intermediate/corner sector consistency. No left-corner action in consolidated catalog."
+}

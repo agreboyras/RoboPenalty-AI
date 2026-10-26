@@ -1,0 +1,4 @@
+[
+ {"phase":"READY","penalty":0,"text":"Iniciar partido"},
+ {"phase":"SHOOTING","penalty":1,"sim_s":2,"text":"Detener partido"}
+]

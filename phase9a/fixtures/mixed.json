@@ -1,0 +1,9 @@
+[
+ {"phase":"READY","penalty":0,"text":"Iniciar partido"},
+ {"phase":"PREPARING","penalty":1,"waiting_shot":true,"text":"Patea al centro"},
+ {"phase":"SHOOTING","penalty":1,"sim_s":1,"text":"Modo automatico"},
+ {"phase":"PREPARING","penalty":2,"waiting_shot":true,"text":"Modo automatico"},
+ {"phase":"SHOOTING","penalty":2,"text":"Estado"},
+ {"phase":"READY","penalty":2,"after":[4],"text":"Modo dirigido"},
+ {"phase":"PREPARING","penalty":3,"waiting_shot":true,"text":"Patea a la derecha abierta"}
+]

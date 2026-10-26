@@ -1,0 +1,14 @@
+[
+  {"phase":"READY","penalty":0,"text":"/cam overview"},
+  {"phase":"READY","penalty":0,"text":"Iniciar partido"},
+  {"phase":"SHOOTING","penalty":1,"sim_s":0.2,"text":"/cam execution"},
+  {"phase":"SHOOTING","penalty":1,"sim_s":1.0,"text":"Pausar partido"},
+  {"phase":"SHOOTING","penalty":1,"paused":true,"pause_wall_s":0.1,"text":"Mostrar marcador"},
+  {"phase":"SHOOTING","penalty":1,"paused":true,"pause_wall_s":0.3,"text":"Reanudar partido"},
+  {"phase":"SHOOTING","penalty":1,"sim_s":3.0,"text":"/cam follow"},
+  {"phase":"SHOOTING","penalty":1,"sim_s":6.0,"text":"/cam goal"},
+  {"phase":"SHOOTING","penalty":1,"sim_s":9.0,"text":"/cam execution"},
+  {"phase":"SHOOTING","penalty":2,"sim_s":0.2,"text":"/cam overview"},
+  {"phase":"SHOOTING","penalty":3,"sim_s":0.2,"text":"/cam execution"},
+  {"phase":"FINISHED","text":"Mostrar marcador"}
+]

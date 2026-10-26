@@ -1,0 +1,4 @@
+[
+ {"phase":"READY","penalty":0,"text":"Iniciar partido"},
+ {"phase":"PREPARING","penalty":1,"waiting_shot":true,"voice_error":true,"text":"Patea al centro"}
+]

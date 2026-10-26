@@ -1,0 +1,3 @@
+# Preserve archived/calibration/source bytes: historical SHA-256 checks are byte-sensitive.
+* -text
+*.py diff=python

@@ -1,0 +1,4 @@
+[
+ {"phase":"READY","penalty":0,"text":"Iniciar partido"},
+ {"phase":"PREPARING","penalty":1,"waiting_shot":true,"wait_wall_s":0.2,"text":"Salir"}
+]
